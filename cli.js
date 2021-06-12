@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const queries = process.argv.slice(2)
 const search = require('./search')
 
