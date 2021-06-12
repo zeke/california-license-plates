@@ -1,0 +1,14 @@
+{
+  "name": "california-license-plates",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "playwright": "^1.12.2",
+    "standard": "^16.0.3",
+    "systeminformation": "^5.7.6"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "bin": "cli.js"
+}
