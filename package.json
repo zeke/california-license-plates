@@ -2,7 +2,7 @@
   "name": "california-license-plates",
   "description": "A silly tool to search the California DMV website for available custom license plate names.",
   "repository": "https://github.com/zeke/california-license-plates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "axios": "^0.21.1",
     "playwright": "^1.12.2",
