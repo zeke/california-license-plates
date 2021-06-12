@@ -20,11 +20,6 @@ async function search (query) {
 
   const page = await context.newPage()
 
-  await page.setViewportSize({
-    width: resolutionX / 3,
-    height: resolutionY
-  })
-
   // Go to https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/order-special-interest-and-personalized-license-plates/
   await page.goto('https://www.dmv.ca.gov/portal/vehicle-registration/license-plates-decals-and-placards/california-license-plates/order-special-interest-and-personalized-license-plates/')
 

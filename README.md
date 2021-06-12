@@ -14,3 +14,21 @@ A silly tool to search the California DMV website for available custom license p
 npm i -g california-license-plates
 npx california-license-plates <query> <query> <etc>
 ```
+
+## Rules
+
+- Select letters, numbers (1-9), and spaces for your license plate. Special or accented characters are not accepted.
+- Type a space or leave blank to add a full space.
+- Type "/" to add a half-space. Two half-spaces cannot be in a row.
+- Minimum of 2 characters.
+- Zero (0) is not allowed?
+
+
+## Tips
+
+Looking for English words that have 7 characters? Use [an-array-of-english-words](https://ghub.io/an-array-of-english-words).
+
+```sh
+npm i -g an-array-of-english-words
+words | grep -x '.\{7,7\}' | wc -l
+```
