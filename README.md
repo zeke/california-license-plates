@@ -1,6 +1,6 @@
 # California License Plates
 
-A silly thing that uses browser automation to search the California DMV website for available custom license plate names.
+A silly tool to search the California DMV website for available custom license plate names.
 
 ## Usage
 
