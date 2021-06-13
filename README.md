@@ -4,6 +4,10 @@ A silly tool to search the California DMV website for available custom license p
 
 <img width="947" alt="CLI" src="https://user-images.githubusercontent.com/2289/121766364-0fc8eb00-cb06-11eb-83d5-bf86f6b2282b.png">
 
+---
+
+<video src="https://user-images.githubusercontent.com/2289/121821946-1a43cb80-cc51-11eb-8479-5fba90b3f76a.mov" data-canonical-src="https://user-images.githubusercontent.com/2289/121821946-1a43cb80-cc51-11eb-8479-5fba90b3f76a.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
+
 ## Requirements
 
 🐢🚀 [Node.js](https://nodejs.org/en/)
