@@ -1,4 +1,4 @@
-const search = require('./search')
+const search = require('./lib/search')
 
 async function main () {
   const queries = [
@@ -22,3 +22,14 @@ async function main () {
 }
 
 main()
+
+// big zee
+// wrd nrd
+// pen15
+// red95
+// zepas
+// ur dad
+// yourdad
+// yipiooo
+// dumphim
+// discoho
