@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 const queries = process.argv.slice(2)
-const chalk = require('chalk')
-const search = require('./lib/search')
+import chalk from 'chalk'
+import search from './lib/search.js'
 
 async function main () {
   for (const query of queries) {
@@ -19,4 +19,4 @@ async function main () {
   }
 }
 
-main()
+await main()
