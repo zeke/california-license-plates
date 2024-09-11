@@ -22,6 +22,8 @@ Enter robots! Our automated friends that exist to perform exactly this kind of m
 
 ```sh
 npm i -g california-license-plates
+npm i chalk@4.1.2
+npx playwright install  
 npx california-license-plates <query> <query> <etc>
 ```
 
