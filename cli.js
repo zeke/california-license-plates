@@ -6,7 +6,7 @@ import search from './lib/search.js'
 
 async function main () {
   for (const query of queries) {
-    const { available, src } = await search(query)
+    const { available } = await search(query)
 
     if (available) {
       console.log(chalk.green(query), chalk.gray('is available!'))
@@ -15,8 +15,10 @@ async function main () {
     }
 
     console.log()
-    console.log({ query, available, src })
+    console.log({ query, available })
   }
+
+  process.exit(0)
 }
 
 await main()
