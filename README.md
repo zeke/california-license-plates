@@ -1,5 +1,8 @@
 # California License Plates
 
+🍿 [Watch the video](https://x.com/zeke/status/1834049560815317277) (4 minutes)
+
+
 A tool to search the California DMV website for available custom license plate names.
 
 <img width="947" alt="CLI" src="https://user-images.githubusercontent.com/2289/121766364-0fc8eb00-cb06-11eb-83d5-bf86f6b2282b.png">
