@@ -1,5 +1,18 @@
 # California License Plates
 
+Note: This software doesn't work any more, but there is a better alternative!
+
+You can use AI agents to autonomously navigate the DMV website and find you the perfect vanity plate! 
+
+🏄🏻‍♀️ Check out [Surfing with Claude](https://github.com/zeke/vibes/blob/a55774ecc26bfdc3fccc7fd91a3ff492b31e418a/surfing-with-claude.md) for a simple tutorial and video demo that uses Claude Code + Playwright MCP to find vanity plates _without writing any code!_
+
+
+---
+---
+---
+---
+---
+
 🍿 [Watch the video](https://x.com/zeke/status/1834049560815317277) (4 minutes)
 
 
